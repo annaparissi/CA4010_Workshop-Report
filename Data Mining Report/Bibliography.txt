@@ -1,0 +1,6 @@
+Bibliography
+
+1. Scikit-learn.org (2017), "Gaussian Naive Bayes", found at http://scikit-learn.org/stable/modules/naive_bayes.html#gaussian-naive-bayes
+2. Scikit-learn.org (2017), "Decision Trees", found at http://scikit-learn.org/stable/modules/tree.html#tree
+3. Scikit-learn.org (2017), "RandomForestClassifier",found at http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+4. Wikipedia (2017), "Random Forest", found at https://en.wikipedia.org/wiki/Random_forest#ExtraTrees
